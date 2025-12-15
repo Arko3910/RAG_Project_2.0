@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+sentence-transformers
+faiss-cpu
+psycopg2-binary
+gunicorn
+apscheduler
+django-cors-headers
